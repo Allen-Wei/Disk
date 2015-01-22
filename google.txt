@@ -1,0 +1,14 @@
+458626813076-tbmf8lplmc3i50qp91fvu95b31shbhp2.apps.googleusercontent.com
+
+
+Google+ API declares the following scopes. Select which ones you want to grant to APIs Explorer.
+https://www.googleapis.com/auth/plus.login
+Know your basic profile info and list of people in your circles.
+https://www.googleapis.com/auth/plus.me
+Know who you are on Google
+https://www.googleapis.com/auth/userinfo.email
+View your email address
+https://www.googleapis.com/auth/userinfo.profile
+View your basic profile info
+
+
